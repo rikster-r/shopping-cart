@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.77d82039.css",
+    "main.js": "/shopping-cart/static/js/main.b94ce9ba.js",
+    "static/media/blob-scene-haikei.svg": "/shopping-cart/static/media/blob-scene-haikei.4b67f158493ce9618e29.svg",
+    "index.html": "/shopping-cart/index.html",
+    "static/media/wave-haikei.svg": "/shopping-cart/static/media/wave-haikei.b95eb80ee99238470d33.svg",
+    "main.77d82039.css.map": "/shopping-cart/static/css/main.77d82039.css.map",
+    "main.b94ce9ba.js.map": "/shopping-cart/static/js/main.b94ce9ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d82039.css",
+    "static/js/main.b94ce9ba.js"
+  ]
+}
